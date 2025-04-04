@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace ProductosTienda
 {
-    internal class ProductoElectrónico
+    public class ProductoElectrónico : Producto
     {
+        public ProductoElectrónico(string nombre, decimal precio) : base(nombre, precio) { }
+
+        public override decimal CalcularPrecioFinal()
+        {
+            return Precio * 0.9m; 
+        }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\deivy\source\repos\ProductosTienda\ProductosTienda\obj\Debug\ProductosTienda.csproj.AssemblyReference.cache
+C:\Users\deivy\source\repos\ProductosTienda\ProductosTienda\obj\Debug\ProductosTienda.Form1.resources
+C:\Users\deivy\source\repos\ProductosTienda\ProductosTienda\obj\Debug\ProductosTienda.Properties.Resources.resources
+C:\Users\deivy\source\repos\ProductosTienda\ProductosTienda\obj\Debug\ProductosTienda.csproj.GenerateResource.cache
+C:\Users\deivy\source\repos\ProductosTienda\ProductosTienda\obj\Debug\ProductosTienda.csproj.CoreCompileInputs.cache
+C:\Users\deivy\source\repos\ProductosTienda\ProductosTienda\bin\Debug\ProductosTienda.exe.config
+C:\Users\deivy\source\repos\ProductosTienda\ProductosTienda\bin\Debug\ProductosTienda.exe
+C:\Users\deivy\source\repos\ProductosTienda\ProductosTienda\bin\Debug\ProductosTienda.pdb
+C:\Users\deivy\source\repos\ProductosTienda\ProductosTienda\obj\Debug\ProductosTienda.exe
+C:\Users\deivy\source\repos\ProductosTienda\ProductosTienda\obj\Debug\ProductosTienda.pdb
